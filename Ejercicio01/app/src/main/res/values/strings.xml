@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio01</string>
+    <string name="nombrePais">Nombre Pais</string>
+    <string name="capital">Capital</string>
+</resources>

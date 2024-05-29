@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ejercicio02</string>
+    <string name="noticias">Noticias</string>
+    <string name="tituloNoticia">Titulo de la Noticia</string>
+    <string name="Nombrenoticia">Nombre</string>
+    <string name="Adress">Adress</string>
+    <string name="titulo">Titulo de la noticia</string>
+    <string name="Autor">Autor</string>
+    <string name="fechPubli">Fecha que se publico</string>
+    <string name="fuente">Fuente</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="url">url</string>
+</resources>
